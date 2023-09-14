@@ -1,7 +1,7 @@
 # Battleship Salvo Game 
 ## Welcome to Battleship salvo
 ![image](https://github.com/bderbs30/BattleSalvo_BS_Redesign/assets/124754518/40050008-49f7-40a7-8bdf-91569f2afedc)
-
+*game does not actually look like this* I wish
 
 This game is a new take on the classic Battleship
 
