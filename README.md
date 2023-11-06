@@ -52,5 +52,7 @@ More specifically, the steps for the shooting stage of Salvo are laid out below:
 ![image](https://github.com/bderbs30/BattleSalvo_BS_Redesign/assets/124754518/ffa98cd3-a7e0-4728-bfb7-7d86d8bdd6bc)
 ## Round View
 ![image](https://github.com/bderbs30/BattleSalvo_BS_Redesign/assets/124754518/957cc99f-b5dc-4320-b466-af5df9684746)
+## End Game
+![image](https://github.com/bderbs30/BattleSalvo_BS_Redesign/assets/124754518/a2e272d1-f149-4b48-bacd-0e0ed961fc59)
 
 
